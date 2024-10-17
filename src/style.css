@@ -6,3 +6,7 @@
     font-family: "MontSerrat";
     src: url(../assets//font/Montserrat-VariableFont_wght.ttf);
 }
+
+.navbar:hover nav{
+    display:flex;
+}
